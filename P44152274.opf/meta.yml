@@ -15,3 +15,8 @@ source_metadata:
       parent: Dzogchen
 created_at: '2022-03-01T01:16:02.154287'
 last_modified_at: '2022-03-01T01:16:02.154290'
+statistics:
+  total_words: 1639
+  total_non_words: 189
+quality:
+  non_words_ratio: 0.12
